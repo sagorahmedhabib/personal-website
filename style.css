@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sriracha;
+}
+h3{
+    margin-top: 70px;
+    font-size: 30px;
+}
+h2{
+    font-size: 45px;
+}
+.orange-highlight{
+    color: #ff4790;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 4%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-button{
+    text-decoration: none;
+    color: #ffff;
+    background-color: #ff4790;
+    padding: 10px 32px;
+}
+.top-section{
+    background: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    height: 370px;
+}
+.mid-section{
+    background: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    height: 370px;
+    display: block;
+}
+
+.three-one{
+    width: 25%;
+    float: left;
+    overflow: hidden;
+    margin: 4%;
+}
+.three-one img{
+    width: 100%;
+}
+.latest-work{
+    background: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    height: 370px;
+    margin-top: 90px;
+}
+.latest-work h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 33px;
+}
+.fore-section{
+    background: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    height: 370px;
+}
+.just-one {
+    margin-top: 135px;
+}
+.just-one h4{
+    font-weight: bold;
+    font-size: 19px;
+}
+.just-one h5{
+    font-weight: normal;
+    color: grey;
+}
+.just-one button{
+    background-color:#ff4790;
+    padding: 15px 146px;
+    border-radius: 15px;
+    color:white;
+    margin-top: 80px;
+}
+footer p{
+    margin-top: 220px;
+}
